@@ -1,1 +1,34 @@
-//css  file for Site A
+css  file for Site A
+body {font-family: Georgia;}
+h1 {font-family: Impact;color: cornsilk; font-size: 48px;}
+body {background-color: darkgrey;  }
+.program
+{font-family:serif}
+h1
+{
+    text-align: center;
+}
+
+table, th, td
+{border: 1px solid cornsilk; border-collapse: collapse}
+
+th 
+{
+  background-color: cornsilk;
+}
+
+table
+{
+    margin: auto; text-align: center
+}
+
+p
+{
+    font-size: 20px;
+    text-align: center;
+    background-color:cornsilk
+}
+ul
+{list-style-image:url(colonel.png); 
+text-align: center;
+    border-image: url(colonel;}
