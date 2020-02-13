@@ -13,7 +13,9 @@ table, th, td
 {border: 1px solid black; border-collapse: collapse}
 #StudioArt {background-color:antiquewhite}
 #Economics {background-color:aqua}
-
+#Politics {background-color:cornflowerblue}
+#ComputerScience {background-color:deeppink}
+#Mathematics {background-color:blueviolet}
 
 table
 {
@@ -23,6 +25,10 @@ table
 p
 {
     font-size: 20px;
-    text-align: center;
-    
+    text-align: center;   
+}
+
+#landing 
+{
+    background-image: url()
 }
