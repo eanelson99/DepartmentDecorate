@@ -12,10 +12,10 @@ h1
 table, th, td
 {border: 1px solid black; border-collapse: collapse}
 #StudioArt {background-color:antiquewhite;}
-#Economics {background-color: darkseagreen}
-#Politics {background-color: dimgray; color: antiquewhite}
+#Economics {background-color: darkseagreen;}
+#Politics {background-color: dimgray; color: antiquewhite;}
 #ComputerScience {background-color: darkkhaki;}
-#Mathematics {background-color: darksalmon}
+#Mathematics {background-color: darksalmon;}
 
 table
 {
